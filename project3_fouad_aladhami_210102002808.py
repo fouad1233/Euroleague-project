@@ -6,9 +6,7 @@ Created on Sat Dec 18 13:34:07 2021
 @author: fuad
 """
 my_name = "Fouad Aladhami"
-my_id = "210102002808"
-my_email = "f.aladhami2021@gtu.edu.tr"
-#Keyifli okumalar diliyorum :-)
+my_email = "fouadiadhami@gmail.com"
 import random 
 class Person:
     def __init__(self , name, lastname):
